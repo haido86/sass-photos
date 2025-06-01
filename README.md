@@ -1,3 +1,3 @@
 # sass-photos
-# sass-photos
-# sass-photos
+
+Practice using sass with displaying photos
